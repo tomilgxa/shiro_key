@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Shiro Key 100000+</title>
-	<style>
-		body {
-			background-color: #282c34;
-			color: #c6c8d1;
-			font-family: Consolas, 'Courier New', Courier, monospace;
-			font-size: 16px;
-			line-height: 1.5;
-			padding: 20px;
-			margin: 0;
-		}
-		.code-block {
-			background-color: #1e1e1e;
-			color: #d4d4d4;
-			border-radius: 4px;
-			padding: 20px;
-			white-space: pre-wrap;
-			word-wrap: break-word;
-			position: relative;
-		}
-		.code-block pre {
-			margin: 0;
 kPH+bIxk5D2deZiIxcaaaA==
 2AvVhdsgUs0FSA3SDFAdag==
 3AvVhmFLUs0KTA3Kprsdag==
